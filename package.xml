@@ -4,7 +4,7 @@
   <version>0.0.1</version>
   <description>Messages describing the topology of the ros graph.</description>
   <maintainer email="dan@osrfoundation.org">Dan Brooks</maintainer>
-  <license>BSD</license>
+  <license>Apache 2.0</license>
   <!-- <url type="website">http://wiki.ros.org/ros_topology_msgs</url> -->
   <author>Dan Brooks</author> 
 
