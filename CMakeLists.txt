@@ -5,11 +5,11 @@ find_package(catkin REQUIRED COMPONENTS message_generation std_msgs)
 
 add_message_files(DIRECTORY msg
   FILES
-  Graph.msg
-  Node.msg
-  Topic.msg
-  Service.msg
-  Connection.msg
+    Connection.msg
+    Graph.msg
+    Node.msg
+    Service.msg
+    Topic.msg
 )
 
 generate_messages(DEPENDENCIES std_msgs)
